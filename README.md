@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- Animated Headings -->
-<h1 align="center" >Hi there 👋, I'm Nayon Halder</h1>
+<h1 align="center" ><img src="githubname.gif" alt="GitHub Name Animation"></h1>
 <h3 align="center" >A passionate Web & Software developer from Bangladesh</h3>
 
 <p align="left"> 
