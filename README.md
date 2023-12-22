@@ -8,56 +8,6 @@
 nrbnayon/nrbnayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- Add this to your README.md file -->
-
-<div align="center">
-  <h1 id="text" >
-    <span style="color: #e74c3c; text-decoration: none;">Hi there👋,</span>
-    <span style="color: #3498db; text-decoration: none;"> I'm Nayon Halder</span>
-    <span id="cursor" style="color: #2ecc71;">|</span>
-  </h1>
-</div>
-
-<style>
-  @keyframes typing {
-    0% {
-      width: 0;
-    }
-    25% {
-      width: 0;
-    }
-    50% {
-      width: 25ch;
-    }
-    75% {
-      width: 15ch;
-    }
-    100% {
-      width: 0;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      opacity: 0;
-    }
-  }
-
-  #text {
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid; 
-    padding-right: 2px; 
-    animation: typing 6s steps(40) infinite;
-  }
-
-  #cursor {
-    animation: blink 1s infinite;
-    display: inline-block;
-    vertical-align: middle;
-  }
-</style>
-
 <style>
   @keyframes fadeIn {
     0% { opacity: 0; transform: translateY(-20px); }
@@ -69,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 </style>
 
 <!-- Animated Headings -->
+<h1 align="center" class="fadeIn">Hi 👋, I'm Nayon Halder</h1>
 <h3 align="center" class="fadeIn">A passionate Web & Software developer from Bangladesh</h3>
 
 <p align="left"> 
