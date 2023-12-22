@@ -8,19 +8,11 @@
 nrbnayon/nrbnayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(-20px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  .fadeIn {
-    animation: fadeIn 1s ease-out;
-  }
-</style>
+
 
 <!-- Animated Headings -->
-<h1 align="center" class="fadeIn">Hi 👋, I'm Nayon Halder</h1>
-<h3 align="center" class="fadeIn">A passionate Web & Software developer from Bangladesh</h3>
+<h1 align="center" >Hi there 👋, I'm Nayon Halder</h1>
+<h3 align="center" >A passionate Web & Software developer from Bangladesh</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nrbnayon&label=Profile%20views&color=0e75b6&style=flat" alt="nrbnayon" /> 
