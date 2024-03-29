@@ -1,8 +1,3 @@
-- 👋 Hi There, I’m Nayon Halder
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ... MERN, react-native and node js
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me here...
 
 <!---
 nrbnayon/nrbnayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,15 +27,15 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-- 🔭 I’m currently working on **WL Fashion**
+- 🔭 I’m currently working on **Byte BLaze**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on [Text To Speech](https://text-to-speech-all.netlify.app)
 
 - 🤝 I’m looking for help with [LinkedIn Frontend](https://nlinkedinclone.netlify.app)
 
-- 👨‍💻 Protfolio [My All Live Project Here ](https://nayon.netlify.app/)
+- 👨‍💻 Protfolio [My All Live Project Here ](https://nrbnayon.netlify.app/)
 
 - 📝 Check out my articles: on [404](https://nayon.netlify.app/)
 
