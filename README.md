@@ -9,8 +9,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nayon+Kanti+Halder..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<img src="https://raw.githubusercontent.com/nrbnayon/nrbnayon/main/6.jpeg" alt="Banner Image">
 
-<h3 align="center" >A passionate Web & Software developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Application & Software Developer</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
