@@ -128,14 +128,22 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 </br>
-
-<a align="center" href="https://github.com/nrbnayon">
-   <img alt="Nayon's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nrbnayon&custom_title=Nayon%20Kanti%20Halder's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" />
+<!-- GitHub Activity Graph -->
+<!-- <a align="center" href="https://github.com/nrbnayon">
+   <img 
+      alt="Nayon's Activity Graph" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=nrbnayon&custom_title=Nayon%20Kanti%20Halder's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true&cache_bust=true" 
+   />
 </a>
 
+<!-- Separator Animation --> -->
 <a>
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <img 
+      src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+      alt="Separator Animation"
+   >
 </a>
+
 
 ### StarDev Ranking
 
