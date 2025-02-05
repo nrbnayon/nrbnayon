@@ -1,17 +1,12 @@
-
-<!---
-nrbnayon/nrbnayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nayon+Kanti+Halder..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 <img src="https://raw.githubusercontent.com/nrbnayon/nrbnayon/main/6.jpeg" alt="Banner Image">
 
-<h3 align="center">A passionate Web Application & Software Developer</h3>
+<h3 align="center">Backend Developer | Node.js & Express.js Specialist</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -25,14 +20,23 @@ You can click the Preview link to take a look at your changes.
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
+
 ### About Me
 
-- 🌱 I’m currently learning **Next JS**
-- 🔭 Focusing on FullStack (Frontend + Backend ).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and React Native.
+- 💼 Currently working as a Junior Backend Developer
+- 🔧 Specializing in **Node.js** and **Express.js** development
+- 🌱 Currently learning **AWS**, **Prisma ORM**, and advanced backend architectures
+- 🚀 Focusing on building scalable and efficient backend systems
+- 📊 Working with databases like **MongoDB**, **PostgreSQL**, and **MySQL**
+- 🔄 Experienced in RESTful API development and microservices
+- 🛠️ Implementing authentication, authorization, and security best practices
+- 📈 2025 Goals: 
+  - Master AWS cloud services (EC2, S3, Lambda)
+  - Implement serverless architectures
+  - Gain expertise in Prisma ORM
+  - Advanced Docker & Kubernetes deployments
+  - Master CI/CD pipelines
+  - Scale microservices architecture
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 👨‍💻 Portfolio [Click Here](https://nrbnayon.netlify.app/)
 
@@ -55,47 +59,41 @@ You can click the Preview link to take a look at your changes.
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-### Languages and Tools:
+### Tech Stack:
 
-#### Expertise
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white)
+#### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### Comfortable
+#### Tools & Utilities
+![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC) 
-![AntDesign](https://img.shields.io/badge/AntDesign-f7f7f7?style=flastic&logo=AntDesign&logoColor=0170FE)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-95E000?style=flat-square&logo=agile&logoColor=black)
-![Scrum](https://img.shields.io/badge/Scrum-CC0000?style=flat-square&logo=scrum&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### Frontend Knowledge
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <a>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -115,11 +113,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
    <a href="https://github.com/nrbnayon">
-      <img 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrbnayon&theme=radical" 
-         alt="Nayon's GitHub Contribution" 
-         width="90%" 
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrbnayon&theme=radical" alt="Nayon's GitHub Contribution" width="90%" />
    </a>
 </p>
 
@@ -127,26 +121,10 @@ You can click the Preview link to take a look at your changes.
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-</br>
-<!-- GitHub Activity Graph -->
-<!-- <a align="center" href="https://github.com/nrbnayon">
-   <img 
-      alt="Nayon's Activity Graph" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=nrbnayon&custom_title=Nayon%20Kanti%20Halder's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true&cache_bust=true" 
-   />
-</a>
-
-<!-- Separator Animation --> -->
-<a>
-   <img 
-      src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
-      alt="Separator Animation"
-   >
-</a>
-
-
 ### StarDev Ranking
 
 <div align="center">
-  <a href="https://stardev.io/developers/nrbnayon"><img alt="Check out nayon's profile on stardev.io" src="https://stardev.io/developers/nrbnayon/badge/languages/global.svg" width="100%" /></a>
+  <a href="https://stardev.io/developers/nrbnayon">
+    <img alt="Check out nayon's profile on stardev.io" src="https://stardev.io/developers/nrbnayon/badge/languages/global.svg" width="100%" />
+  </a>
 </div>
