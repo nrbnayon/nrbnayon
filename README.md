@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/nrbnayon/nrbnayon/main/6.jpeg" alt="Banner Image">
 
-<h3 align="center">Backend Developer | Node.js & Express.js Specialist</h3>
+<h3 align="center">Jr. Software Engineer | MERN, React Native Specialist</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -23,8 +23,8 @@
 
 ### About Me
 
-- 💼 Currently working as a Junior Backend Developer
-- 🔧 Specializing in **Node.js** and **Express.js** development
+- 💼 Currently working as a Junior Software Engineer
+- 🔧 Specializing in **React.js**, **Next.js**, **JavaScript.js**, **TypeScript.js** **Node.js** and **Express.js**.
 - 🌱 Currently learning **AWS**, **Prisma ORM**, and advanced backend architectures
 - 🚀 Focusing on building scalable and efficient backend systems
 - 📊 Working with databases like **MongoDB**, **PostgreSQL**, and **MySQL**
@@ -37,7 +37,7 @@
   - Advanced Docker & Kubernetes deployments
   - Master CI/CD pipelines
   - Scale microservices architecture
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- ⚡ Fun fact: Equal is Not Always Equal in JavaScript.🤣
 - 👨‍💻 Portfolio [Click Here](https://nrbnayon.netlify.app/)
 
 <a>
@@ -101,9 +101,9 @@
 
 ### My GitHub Stats:
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrbnayon&layout=compact&theme=nightowl&hide_border=true&langs_count=8" alt="Most Used Languages" width="60%" />
-</div>
+</div> -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nrbnayon&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="nrbnayon" width="70%"  />
 </div>
