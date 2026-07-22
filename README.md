@@ -1,16 +1,28 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Nayon+Kanti+Halder!;Software+Engineer+🚀;Full+Stack+%26+Mobile+Developer">
-  </a>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=NAYON%20KANTI%20HALDER&fontSize=48&fontAlignY=38&animation=twinkling" width="100%" alt="Header Wave" />
+</p>
+
+<!-- Title & Typing SVG -->
+<h3 align="center">
+  <samp>
+    &gt; Hey There! I'm
+    <b><a target="_blank" href="https://www.linkedin.com/in/itsnayon/">Nayon Kanti Halder</a></b> 👋
+  </samp>
+</h3>
+
+<p align="center">
+  <samp>
+    「 Software Engineer | Building Scalable Web & Mobile Applications 」  
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00D2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;MERN+%26+NestJS+Backend+Specialist;React+Native+%26+Expo+Mobile+Developer;Building+Scalable+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="github-banner.png" alt="Nayon Kanti Halder Banner" width="100%" />
 </p>
-
-<!-- <p align="center">
-  <img src="githubname.gif" alt="Nayon Kanti Halder Animated" width="85%" />
-</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -20,7 +32,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <a href="https://github.com/nrbnayon">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Cyber Divider" />
+  </a>
 </p>
 
 ### 💫 About Me
@@ -29,7 +43,7 @@
 
 I am a passionate **Software Engineer** with **2.5+ years of hands-on experience** crafting modern, high-performance, and scalable web & mobile applications.
 
-- 💼 **Current Role**: Junior Software Engineer
+- 💼 **Current Role**: Executive Software Engineer
 - 🎯 **Core Expertise**: Full Stack Web Development (MERN, NestJS) & Mobile Apps (React Native, Expo)
 - 🤖 **AI & Automation**: Integrating OpenAI API & Gemini API into business workflows
 - 🌐 **Cloud & Infrastructure**: AWS, VPS Deployment, Docker Containerization, Nginx, CI/CD
@@ -37,7 +51,11 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 <br />
 
----
+<p align="center">
+  <a href="https://github.com/nrbnayon">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" alt="Cyber Divider" />
+  </a>
+</p>
 
 ### 🏆 Honors & Awards
 
@@ -48,7 +66,7 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
     </td>
     <td width="60%" valign="middle">
       <h3>🌟 Best Employee of the Q4 (2025 - 2026)</h3>
-      <p><b>Organization:</b> Betopia Group</p>
+      <p><b>Organization:</b> Join Venture AI</p>
       <p><b>Role:</b> Front-End / Software Developer</p>
       <p><i>Recognized for outstanding performance, technical leadership, commitment to excellence, and high-impact contributions to core engineering projects.</i></p>
       <br />
@@ -57,24 +75,82 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
   </tr>
 </table>
 
+<br />
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <a href="https://github.com/nrbnayon">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" width="100%" alt="Cyber Divider" />
+  </a>
 </p>
 
-### 💻 Tech Stack
+# 🛠 Technologies & Core Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **AI & Automation** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![Automation](https://img.shields.io/badge/Business_Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
+<tr>
+
+<!-- LEFT: DEV ICONS MATRIX -->
+<td width="50%" valign="top" align="center">
+
+<h3>💻 Core Tech Stack</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" title="React" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" title="Next.js" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" title="TypeScript" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" title="JavaScript" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" title="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" title="Node.js" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" title="Express.js" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="38" title="NestJS" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" title="MongoDB" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" title="MySQL" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="38" title="Redis" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" title="AWS" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" title="Docker" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="38" title="Nginx" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" title="Git" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" title="Linux" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="38" title="Postman" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" title="HTML5" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" title="CSS3" /></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- RIGHT: CATEGORIZED TABLE -->
+<td width="50%" valign="top">
+
+<h3>📋 Categorized Skills</h3>
+
+- **Frontend**: React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Backend**: Node.js, Express.js, NestJS, REST APIs, WebSockets
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Mobile**: React Native, Expo
+- **Cloud & DevOps**: AWS, Docker, Linux, Nginx, CI/CD
+- **AI & Automation**: OpenAI API, Gemini API, Business Automation
+- **Tools**: Git, GitHub, GitLab, Postman, VS Code, Swagger
+
+</td>
+
+</tr>
+</table>
+
+<br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <a href="https://github.com/nrbnayon">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Cyber Divider" />
+  </a>
 </p>
 
 ### 🛠️ What I Do & Project Focus
@@ -109,23 +185,15 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 🌟 Key Strengths & Expertise
-
-```
-🚀 Problem Solver        │  🏗️ Scalable Architecture  │  ⚡ Performance Optimization
-🛡️ Secure & Reliable Code │  🤝 Team Player            │  💬 Strong Communication
-⚡ Fast Learner          │  🔄 Agile Development      │  🌟 Client Satisfaction
-```
+<br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <a href="https://github.com/nrbnayon">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Cyber Divider" />
+  </a>
 </p>
 
-### 📊 GitHub Activity & Analytics
+### 📊 Vital Statistics & GitHub Analytics
 
 #### 📈 Interactive 3D Contribution Graph
 <div align="center">
@@ -134,47 +202,70 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 <br />
 
-#### 📊 Overall Stats & Top Languages
+#### 🔥 GitHub Streak Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrbnayon&show_icons=true&locale=en&theme=nightowl&hide_border=true&count_private=true" alt="Nayon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrbnayon&layout=compact&theme=nightowl&hide_border=true&langs_count=8" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrbnayon&theme=radical&hide_border=true" alt="Nayon's GitHub Streak" width="97%" />
 </div>
 
 <br />
 
-#### 🔥 GitHub Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrbnayon&theme=nightowl&hide_border=true" alt="Nayon's GitHub Streak" width="97%" />
-</div>
+<p align="center">
+  <a href="https://github.com/nrbnayon">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Cyber Divider" />
+  </a>
+</p>
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLABORATION -->
+<td width="48%" valign="top">
+
+<h3>🤝 Collaboration</h3>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>Full Stack Web & SaaS Applications</li>
+  <li>Mobile App Development (React Native / Expo)</li>
+  <li>Backend Architecture & Microservices</li>
+  <li>AI Integration & Automation Projects</li>
+</ul>
+
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="48%" valign="top" align="center">
+
+<h3>📫 Connect & Contact</h3>
+
+<a href="https://nayon-ii.vercel.app/">
+  <img src="https://img.shields.io/badge/Personal%20Website-nayon--ii.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal Website">
+</a>
+<br><br>
+
+<a href="mailto:nrbnayon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-nrbnayon%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Contact">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/itsnayon/">
+  <img src="https://img.shields.io/badge/LinkedIn-itsnayon-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+</a>
+<br><br>
+
+<a href="tel:01934025581">
+  <img src="https://img.shields.io/badge/WhatsApp-01934025581-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 📫 Let's Connect & Build Something Great!
-
-<p align="left">
-  <a href="https://nayon-ii.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/itsnayon/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nrbnayon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:01934025581">
-    <img src="https://img.shields.io/badge/WhatsApp%2FPhone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://x.com/homeless_nayon">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/nay.o.ii/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
   <a href="https://www.leetcode.com/nrbnayon">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -186,8 +277,10 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%" alt="Footer Wave"/>
+</p>
 
 <p align="center">
-  <sub><b>Turning Ideas into Scalable Digital Solutions</b> • Clean Code • Modern Tech • Best Practices • Client Focused • Results Driven</sub>
+  <sub><b>Turning Ideas into Scalable Digital Solutions</b> • Clean Code • Modern Tech • Best Practices • Client Focused</sub>
 </p>
