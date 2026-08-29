@@ -40,7 +40,7 @@
 
 > **"Building scalable solutions. Delivering real impact."**
 
-I am a passionate **Software Engineer** with **2.5+ years of hands-on experience** crafting modern, high-performance, and scalable web & mobile applications.
+I am a passionate **Software Engineer** with **2.7+ years of hands-on experience** crafting modern, high-performance, and scalable web & mobile applications.
 
 - 💼 **Current Role**: Executive Software Engineer
 - 🎯 **Core Expertise**: Full Stack Web Development (MERN, NestJS) & Mobile Apps (React Native, Expo)
@@ -194,7 +194,7 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=nrbnayon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nrbnayon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nrbnayon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> -->
 </p>
 
 <p align="center">
