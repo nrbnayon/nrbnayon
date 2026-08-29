@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=NAYON%20KANTI%20HALDER&fontSize=48&fontAlignY=38&animation=twinkling" width="100%" alt="Header Wave" />
 </p>
 
-<!-- Title & Typing SVG -->
 <h3 align="center">
   <samp>
     &gt; Hey There! I'm
@@ -12,7 +11,7 @@
 
 <p align="center">
   <samp>
-    「 Software Engineer | Building Scalable Web & Mobile Applications 」  
+    「 Software Engineer | Building Scalable Web & Mobile Applications 」
   </samp>
 </p>
 
@@ -25,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2.7%2B%20Years-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00C853?style=for-the-badge&logo=remote&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-FF6D00?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=nrbnayon&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -88,7 +87,6 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 <table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
 
-<!-- LEFT: DEV ICONS MATRIX -->
 <td width="50%" valign="top" align="center">
 
 <h3>💻 Core Tech Stack</h3>
@@ -127,7 +125,6 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 </td>
 
-<!-- RIGHT: CATEGORIZED TABLE -->
 <td width="50%" valign="top">
 
 <h3>📋 Categorized Skills</h3>
@@ -195,16 +192,36 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 ### 📊 Vital Statistics & GitHub Analytics
 
-#### 📈 GitHub Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrbnayon&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="Nayon's GitHub Stats" width="100%" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nrbnayon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nrbnayon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nrbnayon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
 
-#### 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nrbnayon&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!--
+  Note: the badges above rely on free public services that occasionally sleep or rate-limit.
+  If a card ever goes blank again:
+  - Stats/Top Langs: this uses github-stats-extended.vercel.app (the maintained successor to
+    the old github-readme-stats.vercel.app, which has had repeated public-instance outages).
+  - Trophies: this uses one of the official community backup mirrors listed at
+    https://github.com/ryo-ma/github-profile-trophy — swap the domain for another mirror
+    from that list if this one is down.
+  - For zero downtime, fork the relevant repo and deploy your own free Vercel instance,
+    then point the <img> src at your own deployment URL instead.
+-->
+
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nrbnayon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nayon's GitHub Streak" width="97%" />
+  <img src="https://img.shields.io/badge/GitHub-nrbnayon-181717?logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/github/last-commit/nrbnayon/nrbnayon?style=flat&logo=github&color=00D2FF" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/nrbnayon/nrbnayon?style=flat&logo=github&color=00D2FF" alt="Repository Size" />
 </div>
 
 <br />
@@ -218,12 +235,11 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
-<!-- LEFT: COLLABORATION -->
 <td width="48%" valign="top">
 
 <h3>🤝 Collaboration</h3>
 
-I’m open to collaborating on:
+I'm open to collaborating on:
 
 <ul>
   <li>Full Stack Web & SaaS Applications</li>
@@ -234,13 +250,12 @@ I’m open to collaborating on:
 
 </td>
 
-<!-- RIGHT: CONTACT -->
 <td width="48%" valign="top" align="center">
 
 <h3>📫 Connect & Contact</h3>
 
-<a href="https://nayon-ii.vercel.app/">
-  <img src="https://img.shields.io/badge/Personal%20Website-nayon--ii.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal Website">
+<a href="https://nayon-halder-os.vercel.app/">
+  <img src="https://img.shields.io/badge/Personal%20Website-nayon--halder--os.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal Website">
 </a>
 <br><br>
 
