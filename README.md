@@ -204,7 +204,7 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 #### 🔥 GitHub Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrbnayon&theme=radical&hide_border=true" alt="Nayon's GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=nrbnayon&theme=radical&hide_border=true" alt="Nayon's GitHub Streak" width="97%" />
 </div>
 
 <br />
