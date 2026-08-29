@@ -195,9 +195,9 @@ I am a passionate **Software Engineer** with **2.5+ years of hands-on experience
 
 ### 📊 Vital Statistics & GitHub Analytics
 
-#### 📈 Interactive 3D Contribution Graph
+#### 📈 GitHub Overview
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrbnayon&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" alt="Nayon's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nrbnayon&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="Nayon's GitHub Stats" width="100%" />
 </div>
 
 <br />
