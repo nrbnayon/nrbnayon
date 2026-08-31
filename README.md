@@ -218,6 +218,26 @@ I am a passionate **Software Engineer** with **2.7+ years of hands-on experience
 -->
 
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrbnayon&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrbnayon&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-nrbnayon-181717?logo=github&logoColor=white" alt="GitHub Profile" />
   <img src="https://img.shields.io/github/last-commit/nrbnayon/nrbnayon?style=flat&logo=github&color=00D2FF" alt="Last Commit" />
@@ -291,6 +311,7 @@ I'm open to collaborating on:
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%" alt="Footer Wave"/>
